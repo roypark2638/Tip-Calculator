@@ -32,7 +32,7 @@ class CalculatorViewController: UIViewController{
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         super.viewDidLoad()
-        
+        print("test")
         title = "Calculator"
         calculator()
         
