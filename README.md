@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![](http://g.recordit.co/mEeqR31ecB.gif)
+![](http://g.recordit.co/mTWCzhjA6p.gif)
 
 ## Notes
 
