@@ -63,8 +63,7 @@ class CalculatorViewController: UIViewController{
         let defaults = UserDefaults.standard
         defaults.synchronize()
         
-        let newTips = defaults.object(forKey: "savedTips") as? [Double] ?? [Double]()
-        tipPercentages = newTips
+        tipPercentages = defaults.object(forKey: "savedTips") as? [Double] ?? [Double]()
         tipAmountSegmentedControl.setTitle(String(tipPercentages[0] * 100) + "%", forSegmentAt: 0)
         tipAmountSegmentedControl.setTitle(String(tipPercentages[1] * 100) + "%", forSegmentAt: 1)
         tipAmountSegmentedControl.setTitle(String(tipPercentages[2] * 100) + "%", forSegmentAt: 2)
