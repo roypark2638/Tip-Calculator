@@ -30,6 +30,7 @@ The following **additional** features are implemented:
 * [x] Add functions to split the bill by number of people.
 * [x] If user touch the any empty screen, the key will disappear.
 * [x] Add constrains so that user can use any iPhone devices
+* [x] Add App icon
 
 ## Video Walkthrough
 
