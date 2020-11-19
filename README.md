@@ -33,9 +33,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-http://g.recordit.co/mEeqR31ecB.gif
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img scr="http://g.recordit.co/mEeqR31ecB.gif" width=250><br>
 
 ## Notes
 
