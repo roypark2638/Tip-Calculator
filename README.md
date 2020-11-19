@@ -26,10 +26,10 @@ The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app functionality!
 
-[x] Created a setting menu and there are customize the tip menu for user defaults.
-[x] Add functions to split the bill by number of people.
-[x] If user touch the any empty screen, the key will disappear.
-[x] Add constrains so that user can use any iPhone devices
+* [x] Created a setting menu and there are customize the tip menu for user defaults.
+* [x] Add functions to split the bill by number of people.
+* [x] If user touch the any empty screen, the key will disappear.
+* [x] Add constrains so that user can use any iPhone devices
 
 ## Video Walkthrough
 
